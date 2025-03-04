@@ -1,0 +1,22 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "チルワ",
+			"Worlds": [
+				{
+					"ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+					"Name": "青天霹靂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クジラって別名「勇魚（イサナ）」って言うらしいですね！かっこいい！ BGM˸resonance of time／written by˸のる 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		}
+	]
+}
