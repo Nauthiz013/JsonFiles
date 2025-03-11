@@ -1,0 +1,155 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "チルワ",
+			"Worlds": [
+				{
+					"ID": "wrld_be8e5a7b-522b-48e0-9999-b9738c5a9b6f",
+					"Name": "ぐーたら和室 -Japanese Chill Room-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ゆったり過ごせる和室を作りましたご自由にお使いください 囲炉裏‚こたつ‚布団etc Audio-Link対応済み 2023⁄04⁄02更新 Join音 睡眠用斜め鏡 水槽追加",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3e0903d9-7572-4530-a96c-cea251992062",
+					"Name": "ATTO HOME -Usual-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "いつものお家（春） 設定から外に雨を降らせたりできるぞ！ケーキとクラッカーもあるからお祝いにも！！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_482fc4c7-cb65-41af-af5a-1118845d8a27",
+					"Name": "KTNK ETT HOUSE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フレンドのコミュニティ向けに作成したワールドを、公開したものになります！ update（20220815）イベントカレンダーが不調の為、一旦削除しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2755f213-a369-46a3-97c9-791d289f9ba1",
+					"Name": "寝起きの回廊 - Aerial garden -",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "青空の下で目覚めたら、雪と水に囲まれた回廊をのんびり歩いていってみましょう。。陽だまりで本を読んだり、ゆずのお風呂に浸かったり。。どこからかパンの香りと次のベッドの気配が漂ってきます A tranquil aerial corridor surrounded by snow-covered mountains and glaciers․ It features warm lounges‚ bedrooms‚ and a greenhouse․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ba420d4b-33a4-432d-8af6-a7f5abc9cdf7",
+					"Name": "Roost",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "カフェイベント等の利用向けカフェワールドです。カフェイベント等にご利用頂けると嬉しいです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_482fc4c7-cb65-41af-af5a-1118845d8a27",
+					"Name": "KTNK ETT HOUSE",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フレンドのコミュニティ向けに作成したワールドを、公開したものになります！ update（20220815）イベントカレンダーが不調の為、一旦削除しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ff96d9c3-1203-4aa4-8716-07d5ab863475",
+					"Name": "ゆきねこほーむ Charlotte's Loving Home",
+					"RecommendedCapacity": 25,
+					"Capacity": 25,
+					"Description": "こたつをみんなで囲もう。ストーブで焼き芋しよう。窓際で雪とオーロラを眺めて、友達と語り合おう。焼肉、お酒、お菓子もあるよ。いっぱい遊んだら、温泉に入って、そのまま寝ちゃおうよ。やさしい時間と空間が、ここにあるの。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8108b931-1727-4a89-b20e-ab4f0fe28e82",
+					"Name": "",
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": ""
+				}
+			]
+		},
+		{
+			"Category": "景観系",
+			"Worlds": [
+				{
+					"ID": "wrld_f1826565-32a9-4bac-8c85-d621c943a51d",
+					"Name": "Moment",
+					"RecommendedCapacity": 1,
+					"Capacity": 8,
+					"Description": "この瞬間をあなたと共に This moment with you․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_525e708b-7885-4a1a-9cee-6aa46dd8840f",
+					"Name": "旅に出かけない？浅葱空の彼方まで",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "成層圏に存在する駅舎です。噂では遠い昔電車ではない何かが停車していたみたい",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+					"Name": "青天霹靂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クジラって別名「勇魚（イサナ）」って言うらしいですね！かっこいい！ BGM˸resonance of time／written by˸のる 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d24f7761-761f-4a97-a2a4-70038de0cb12",
+					"Name": "Charlotte's Flowering Island",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "ここは常春の「はじまり」の島。大事な人たちと歩みましょう、サクラ咲く青空と希望の丘。愛を誓いましょう、小さな教会で。灯台の示す方向には、未来へ出航する帆船。明日もきっと、温かさと優しさに満ちています。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9fb46a43-22d8-4b7f-b7d1-334158f144d8",
+					"Name": "星蒼の安息地 -StarReverie Rest-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "ほしぼしのはねやすめ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		}
+	]
+}
