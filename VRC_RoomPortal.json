@@ -83,11 +83,26 @@
 					}
 				},
 				{
-					"ID": "wrld_8108b931-1727-4a89-b20e-ab4f0fe28e82",
-					"Name": "",
-					"RecommendedCapacity": 0,
-					"Capacity": 0,
-					"Description": ""
+					"ID": "wrld_3bada55e-3651-4679-b195-22ddbc1d3a3a",
+					"Name": "mochimochi_Cafe",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "アイスを追加しました！たくさんのお花と桜の舞う春のカフェのワールドです。おもちやさんのスイーツを展示しています。 pickupオブジェクトは離れると15秒ほどで元の場所に戻ります。ショップの横にミラースイッチがあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_113d715c-b47c-4a9e-9829-c1c0833f019c",
+					"Name": "-龍桜-",
+					"RecommendedCapacity": 28,
+					"Capacity": 28,
+					"Description": "BOOTH【妖具屋零れ桜】の販売物展示場を含む和風チルワールドです。 【更新履歴】2025⁄01⁄30 妖具屋エリアにアイテムを4つ追加",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -144,6 +159,50 @@
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
 					"Description": "ほしぼしのはねやすめ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e7737082-7da7-40cf-b49a-800401a135a5",
+					"Name": "青色エモーショナルキャプチャー ~blue emotional capture~",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "今までとは違う感じになるように作りました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9646f7f8-44bb-451a-9eab-8464a89fb7d9",
+					"Name": "雨見神社 ～Sunny rain falling on the shrine～",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "雨見峠の中間地、雨見山の頂上にある古めかしい神社にて、狐の嫁入りが降り続く中、お花見会が開かれている。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_71c478ff-01f9-460c-9c58-01cc89dba124",
+					"Name": "春京˸ 旧八重駅 -輝桜神社- Spring Capital˸ the Former Yae Station",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "こんな所にあるとはな",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d4eb8b77-95fe-4fe0-90ef-07cb1015aa48",
+					"Name": "素敵な日々～Beautiful Days～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "個人撮影用に作ったのですが思いのほか反響があったので公開してみることにしました 手持ちのアセットを組み合わせただけのお手軽ワールドですが絵本のような風景・カフェ・教会と好きなものをぎゅっと詰め込みました バグレポートなどあったら報告していただけるとうれしいです I made it for personal photography‚ but the response was more than I expected‚ so I decided to make it public․It's a simple world made by combining assets I already have‚ but I've packed it I like‚ picture book-like scenery‚ and a cafe‚ and a church‚ in the world․ If you have any bug reports‚ I'd be happy if you could report them․",
 					"Platform": {
 						"PC": true,
 						"Android": false
